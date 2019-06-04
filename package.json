@@ -1,5 +1,5 @@
 {
-  "name": "tabulate",
+  "name": "@jordan-coded4/tabulate",
   "version": "1.0.0",
   "description": "A tool to turn a string into a table row and cells, seperate each with §.",
   "main": "index.js",
