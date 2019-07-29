@@ -1,14 +1,14 @@
 {
-  "name": "@jordan-coded4/tabulate",
+  "name": "tabulate",
   "version": "1.0.0",
   "description": "A tool to turn a string into a table row and cells, seperate each with §.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jordan-Coded4/tabulate.git"
+    "url": "https://github.com/Jordan-Coded4/tabulate.git"
   },
   "keywords": [
     "tabulate"
@@ -16,7 +16,7 @@
   "author": "Jordan-Coded4",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jordan-Coded4/tabulate/issues"
+    "url": "https://github.com/coded4/tabulate/issues"
   },
-  "homepage": "https://github.com/Jordan-Coded4/tabulate#readme"
+  "homepage": "https://github.com/coded4/tabulate"
 }
